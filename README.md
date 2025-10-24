@@ -13,7 +13,7 @@ Each project focuses on a different aspect of **game design**, such as player gu
 | Project | Description | Tools / Engine |
 |----------|--------------|----------------|
 | [**Guided by Nature**](./GuidedByNature) | Open-world terrain prototype inspired by *Ghost of Tsushima*. Focuses on natural player guidance using environmental cues like wind, light, and terrain contrast. | Unity 2022.3, Gaia Pro 2023, GeNa Pro |
-| [**Hanzo Dragonstrike**](./HanzoDragonstrike) | Cinematic ultimate ability prototype recreating Hanzo’s Ultimate from *Overwatch*. Features custom visual effects, audio feedback and post-processing to enhance the player experience. | Unity 2019.4.41f2, Post Processing Stack, Particle System |
+| [**Hanzo Dragonstrike**](./HanzoUltimate) | Cinematic ultimate ability prototype recreating Hanzo’s Ultimate from *Overwatch*. Features custom visual effects, audio feedback and post-processing to enhance the player experience. | Unity 2019.4.41f2, Post Processing Stack, Particle System |
 
 ---
 
